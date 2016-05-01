@@ -60,6 +60,7 @@ background-color: #ff0033;
 .botonrojo{
 	background-color: #ff0033;
 	color: #ffffff;
+	font-size:18px;
 }
 
 .adaptar{
@@ -128,11 +129,10 @@ background-color: #ff0033;
 		margin-right: 30px;
 		margin-top: 20px;
 		border-radius: 5px;
+		font-size: 20px;
 }
 
 .justificar{ text-align: justify;
-
-
 }
 
 [class^="icon-"], [class*=" icon-"] {
