@@ -13,6 +13,10 @@ body{
 	background-color: #009966;
 }
 
+.centrar_texto{
+	text-align: center;
+}
+
 .navbar-default{
 width: 100%;
 margin-right: 0;
@@ -44,7 +48,7 @@ border: 0;
 }
 
 .navbar-default .navbar-nav > li > a{
-font-size: 36px;
+font-size: 24px;
 color: #fff;  /*Sets the text hover color on navbar*/
 }
 
@@ -107,7 +111,6 @@ background-color: #ff0033;
 	color: white;
 	background-color: white;
 }
-
 .redondo{
 	border-radius: 10px;
 }
@@ -229,4 +232,13 @@ background-color: #ff0033;
 }
  .btnbebida{
 	margin-top: 10px;
+}
+
+.reporte-titulo{
+	color: #fff;
+	text-align: center;
+}
+
+@media screen and (min-width: 0px) and (max-width: 1024px) {
+ 	.redes{ display: none; }
 }
